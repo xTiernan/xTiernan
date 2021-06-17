@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xTiernan
+- 👀 I’m interested in System Administration & Information Security
+- 🌱 I’m currently learning Node & Java
+- 💞️ I’m looking to collaborate on startups that I see a good future in
+- 📫 Email me at tiernan@tmc-corp.org for any ideas or inquiries
